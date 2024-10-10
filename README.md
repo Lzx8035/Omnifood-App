@@ -1,6 +1,6 @@
 Welcome to my Project: Omnifood App 🎉
 
-A modern web page designed with CSS🍕
+A modern, responsive web page for a food company, crafted with CSS 🍜
 
 Plz check the link below: 🌐：https://lea-omnifood-project.netlify.app/
 
